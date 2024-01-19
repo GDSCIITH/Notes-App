@@ -1,10 +1,10 @@
-package com.example.splitter
+package com.example.notesapp
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.splitter.databinding.ActivityMainBinding
+import com.example.notesapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

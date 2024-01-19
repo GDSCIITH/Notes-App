@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Splitter"
+rootProject.name = "Notes App"
 include(":app")
  

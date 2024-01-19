@@ -1,4 +1,4 @@
-package com.example.splitter
+package com.example.notesapp
 
 import android.content.Context
 import android.content.Intent

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.splitter"
+    namespace = "com.example.notesapp"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.splitter"
+        applicationId = "com.example.notesapp"
         minSdk = 29
         targetSdk = 33
         versionCode = 1

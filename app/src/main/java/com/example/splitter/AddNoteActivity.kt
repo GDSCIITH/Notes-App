@@ -1,9 +1,9 @@
-package com.example.splitter
+package com.example.notesapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
-import com.example.splitter.databinding.ActivityAddNoteBinding
+import com.example.notesapp.databinding.ActivityAddNoteBinding
 
 class AddNoteActivity : AppCompatActivity() {
 
