@@ -2,16 +2,21 @@
 
 ## Overview
 
-Welcome to the GDSC IITH Notes App! This app is designed to help you easily manage and organize your notes. Whether you're in a lecture, attending a workshop, or just jotting down your thoughts, this app has got you covered.
+Welcome to the GDSC IITH's Notes App! This app is designed to help you easily manage and organize your notes. Whether you're in a lecture, attending a workshop, or just jotting down your thoughts, this app has got you covered.
 
 ## Screenshots
+<p float="left" >
+  <img src="misc/Home_Screen.png" width="200" />" "
+  <img src="misc/Add_note.png" width="200" />" "
+  <img src="misc/Edit_Note.png" width="200" />
+</p>
 
-![Add Note](misc/Add_note.png) ![Edit Note](misc/Add_note.png) ![Delete Note](misc/Add_note.png)
+
 ## Download
 
 Click the button below to download the GDSC IITH Notes App:
 
-[![Download](screenshots/download_button.png)](https://github.com/GDSC-IITH/NotesApp/releases/latest)
+[![Download](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white)](https://github.com/GDSC-IITH/NotesApp/releases/latest)
 
 ## Installation
 
@@ -30,7 +35,7 @@ Click the button below to download the GDSC IITH Notes App:
 
 ## Contributions
 
-We welcome contributions from the GDSC IITH community! If you have ideas for new features, improvements, or bug fixes, feel free to submit a pull request.
+We welcome contributions from the community! If you have ideas for new features, improvements, or bug fixes, feel free to submit a pull request.
 
 ## Issues
 
